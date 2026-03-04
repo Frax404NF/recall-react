@@ -174,13 +174,13 @@ Deep-dive guides for each concept covered in this project:
 
 | Guide | Topics Covered |
 |---|---|
-| [React Portals](additional-docs/reading-reference/react_portals_guide.md.resolved) | `createPortal`, rendering outside the DOM, modal patterns |
-| [Error Boundaries](additional-docs/reading-reference/error_boundaries_guide.md.resolved) | Class components, `getDerivedStateFromError`, `componentDidCatch` |
-| [Uncontrolled Forms](additional-docs/reading-reference/uncontrolled_forms_guide.md.resolved) | `FormData` API, controlled vs uncontrolled comparison |
-| [Testing with Vitest](additional-docs/reading-reference/vitest_testing_guide.md.resolved) | Unit tests, snapshots, mocking, coverage, Vitest UI |
-| [React 19 Form Actions](additional-docs/reading-reference/react19_form_actions_guide.md.resolved) | `action` prop, `useFormStatus`, progressive enhancement |
-| [React 19 use() Hook](additional-docs/reading-reference/react19_use_hook_guide.md.resolved) | `use()`, `Suspense`, declarative loading states |
-| [React Compiler](additional-docs/reading-reference/react_compiler_guide.md.resolved) | Auto-memoization, replacing `useMemo`/`useCallback`/`memo` |
+| [React Portals](additional-docs/reading-reference/react_portals_guide.md) | `createPortal`, rendering outside the DOM, modal patterns |
+| [Error Boundaries](additional-docs/reading-reference/error_boundaries_guide.md) | Class components, `getDerivedStateFromError`, `componentDidCatch` |
+| [Uncontrolled Forms](additional-docs/reading-reference/uncontrolled_forms_guide.md) | `FormData` API, controlled vs uncontrolled comparison |
+| [Testing with Vitest](additional-docs/reading-reference/vitest_testing_guide.md) | Unit tests, snapshots, mocking, coverage, Vitest UI |
+| [React 19 Form Actions](additional-docs/reading-reference/react19_form_actions_guide.md) | `action` prop, `useFormStatus`, progressive enhancement |
+| [React 19 use() Hook](additional-docs/reading-reference/react19_use_hook_guide.md) | `use()`, `Suspense`, declarative loading states |
+| [React Compiler](additional-docs/reading-reference/react_compiler_guide.md) | Auto-memoization, replacing `useMemo`/`useCallback`/`memo` |
 
 
 #### Author : @Frax404NF
